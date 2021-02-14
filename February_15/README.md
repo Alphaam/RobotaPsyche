@@ -25,7 +25,7 @@ The process wasn’t as straight forwards as I assumed it would be. I needed to 
 I was very fascinated to see that the lag that comes into the processing running window when too many elements are in play has so much potential in the animating of a piece. When I started experimenting with 1000+ vehicles, after a certain point the vehicles appearing begun to lag and that caused the pieces to appear as though they were viscous liquids. I will probably be using this effect more consciously in the future
 
 
-## QUESTIONS##
+## QUESTIONS ##
 
 
 The only question I have is how to manipulate the angles in the Perlin flow fields to be able to create desired patterns and how to leave less to chance.
