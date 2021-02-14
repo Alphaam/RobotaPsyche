@@ -1,7 +1,9 @@
 ## INSPIRATION ##
 
-I wanted to recreate this painting in ways that were unique to me while also experimenting with creating flow fields and what changing different variables did to the output.
-![]()
+I wanted to recreate the below painting in ways that were unique to me while also experimenting with creating flow fields and what changing different variables did to the output.
+
+
+![](inspo.PNG)
 
 ## PROCESS AND DIFFICULTIES ##
 
@@ -9,12 +11,13 @@ The process wasn’t as straight forwards as I assumed it would be. I needed to 
 
 
 •	Any image of your finished assignment
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](blue.PNG)
+![](rainbowlava.PNG)
+![](blue2.PNG)
+![](paintinf1.PNG)
+![](blue4.PNG)
+![](pink.PNG)
+![](rainbow.PNG)
 
 ## INTERESTING THINGS I LEARNT ##
 
