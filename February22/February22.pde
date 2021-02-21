@@ -23,7 +23,7 @@ void mousePressed() {
 }
 
 void draw() {
-  background(200);
+  background(255, 200, 255);
   f.followMouse();
   // f.display(); // this really slows things down so use it only when you want
 
