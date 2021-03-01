@@ -1,6 +1,6 @@
 ## INSPIRATION ##
 
-I wanted to recreate the below painting in ways that were unique to me while also experimenting with creating flow fields and what changing different variables did to the output.
+I wanted to recreate the below painting in ways that were unique to me while also experimenting with creating flow fields and what changing different variables did to the output. I had a weird inclination to make this work "original" so I did not refer to any of the code used by this arist;instead, I thought about what it would require to build this based on the material covered in class. 
 
 
 ![](inspo.PNG)
