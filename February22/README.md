@@ -23,4 +23,10 @@ Picture showing all the objects when background is a different color
 ## Describe what you included in your DNA ##
 In my DNA I included the object size and color because I found that based on the criteria I set up for survival, these two actors are the most primary factors that affect appearance and disappearance as well as proximity. I was not able to set up evolution in any way so I simply allowed each object to have its own set of attributes from the DNA not derived from any pre-existing object.
 
+## Difficulties
+
+The only difficulty I faced in this assignment was trying to get the objects to be deleted when they die. The appraoach I took was using the pop() function in the vehicle arrayList thatt is meant to remove the object that has died by checking for the index of that object. This doesn't seem to work. Solutions online are suggesting having an inverterd loop but I am not sure how to implement that.
+
+A work-around I found was re-defining what it means for an object to be dead from completely not existing in the arryList to simply not being visible. I, therefore, decided on a color that the dead elements would assume and made the background the same color so that when the object died it would simply dissapear into the background by changing color. 
+
 
