@@ -71,7 +71,7 @@ However, when testing the project, I often ended up having background enabled in
 
 Start Page
 
-![](finall.PNG)
+![](Bubbles.PNG)
 
 
 De-stressing bubbles
