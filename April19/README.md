@@ -1,1 +1,5 @@
+1. Cutie refusing Powell's facts claiming that they are simply a hypothesis makes me think about whether robots, particularly AI, will ever evolve to reject our plain of existance and thought as fact and assume new forms of logic seeing as our current explaination for things is not entirely exhaustive of all other planes of thought. I am wondering what the advantages/disadvantages of that could be. 
 
+2. We talked briefly about how it sounds ilogical to just build robots to populate Earth with us seeing as there is already such a scarcity of resources, but what if we built and sent robots to populate uninhabitable planets to serve human interest? Seeing as they are in another planet entirely and are interracting amongst themselves almost exclusively, what would the conversation surrounding robot rights look like?
+
+3. Recognizing that experimenting with robots is meant to understand human nature better, what happens when we do not like the answers? what if, say, they point away from science and conventional reson? do we even hav ethe capacity to comprehend? 
