@@ -1,4 +1,4 @@
-1. AI sometimes feels like a black box, I wonder if humans are a similar mystery to AI. That is, do they understand our nature more tahn we understand theirs?
+1. AI sometimes feels like a black box, I wonder if humans are a similar mystery to AI. That is, do they understand our nature more than we understand theirs?
 
 
 2. In the conversation of whether we should allow the rich to fund robotics however they choose, I wonder if accountability will be enforced if funding for robotics was restricted to money that is dedicated to some department that is financed by citizen's money. The citizens will finally have a say in how robotics proceeds and robotics advancements can be tailored to specific societal needs.
