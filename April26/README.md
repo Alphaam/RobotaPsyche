@@ -5,6 +5,6 @@
 
 3. If multiple robots are built the same way, on the basis of conciousness, are these robots different of the same robot? 
 
-4.For orbots that are being developed using citizens' tax money, should citizens have access to their data as they are technically the citizens' property?
+4.For robots that are being developed using citizens' tax money, should citizens have access to their data as they are technically the citizens' property?
 
-5. With so many tests to prove that robots have conciousness being tests taht compare robots to humans to find similarity, I wonder how a human will be definied distinctly from a robot on a functional level.
+5. With so many tests to prove that robots have conciousness being tests that compare robots to humans to find similarity, I wonder how a human will be definied distinctly from a robot on a functional level.
