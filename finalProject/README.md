@@ -1,5 +1,8 @@
 ## Project Idea
 
+# Link to video description
+[https://drive.google.com/file/d/1EI7PzpLDe44i0abH-mxYXzPZ1J2La3aX/view?usp=sharing]
+
 # What does curiosity look like?
 I was very inspired by a conversation we had in class about a reading that presented a robot as being curious and I started thinking about how curiosity can be coded. I ,thus, built a system that has curiosity coded into it. In essence, my project is translating human experience into code and I have used all that we have learnt in class so far, particularly mutation and association to accomplish this as described below. In presenting this code, I translated curiosity into paintings created by running the code that answer the question: what does curiosity look like?
 
@@ -28,13 +31,18 @@ I implement free will by randomizing the focus on the vehicle. This randomness w
 ## Presentation
 After creating the code, I achieved the following results:
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
 
-## Concerns
+## Challenges
+I did not facy any serious challnges with this project ouside of the occasional syntax error. Because I had a lot of creative freedom in my translation of curiosity, I utilized areas of code that I was comfortable with doing and learning to complete the project making the process enjoyable and without a lot of difficulties.
+
+
+## Notes for the future
 I am concerned that my approach to curiosity and what it means is too simplistic. I will, thus, do a little more reading on the science and philosophy of curiosity.
+
+
 
 
