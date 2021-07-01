@@ -24,9 +24,9 @@ After reflecting a lot on what curiosity is I came to the following conclusions:
 
 -Curiosity is infinite, you never stop being curious.(Adding a feature that adds objects to be curious about) 
 
-To demonstrate this, I builta system similar to the evolution project where when certain conditions are met by a vehicle's surroundings (the surroundings being other vehicles and other variable elements), and depending on what those conditions are, the vehicle asks questions and investigates the data about these elements to generate answers that will be outwardly reflected as a mutation of the inquisitive vehicle (this mutation being changing in the. color of the vehicle). Once this mutation happens, the vehicle will no longer ask the same questions when similar conditions happen again(because it has learned) and instead either ask different questions or become unfazed by these conditions and instead look at other conditions in its context and ask questions about that. In code, this is translated as the object that caused a mutation being removed so the main object does not encounter it again.
+To demonstrate this, I built a system similar to the evolution project where when certain conditions are met by a vehicle's surroundings (the surroundings being other vehicles and other variable elements), and depending on what those conditions are, the vehicle asks questions and investigates the data about these elements. This is done to generate answers that will be outwardly reflected as a mutation of the inquisitive vehicle (this mutation being changing the color of the vehicle). Once this mutation happens, the vehicle will no longer ask the same questions when similar conditions happen again(because it has learned) and instead either ask different questions or become unfazed by these conditions and instead look at other conditions in its context and ask questions about that. In code, this is translated as the object that caused a mutation being removed so the main object does not encounter it again.
 
-I implement free will by randomizing the focus on the vehicle. This randomness will be the random flowfield that also showcase predeterminedness by how objects die after the main character encounters them.
+I implement free will by randomizing the focus on the vehicle. This randomness will be the random flowfield that also showcases predeterminedness by how objects die after the main character encounters them.
 
 ## Presentation
 After creating the code, I achieved the following results:
@@ -37,7 +37,7 @@ After creating the code, I achieved the following results:
 ![](4.png)
 
 ## Challenges
-I did not facy any serious challnges with this project ouside of the occasional syntax error. Because I had a lot of creative freedom in my translation of curiosity, I utilized areas of code that I was comfortable with doing and learning to complete the project making the process enjoyable and without a lot of difficulties.
+I did not face any serious challnges with this project ouside of the occasional syntax error. Because I had a lot of creative freedom in my translation of curiosity, I utilized areas of code that I was comfortable with doing and learning to complete the project making the process enjoyable and without a lot of difficulties.
 
 
 ## Notes for the future
