@@ -8,7 +8,7 @@ I was very inspired by a conversation we had in class about a reading that prese
 
 ## Implementation 
 
-After reflecting a lot on what curiosity is I came to the following conclusions: 
+After reflecting a lot on what curiosity is, using African literature as my primary source of inspiration, I came to the following conclusions: 
 
 -Curiosity requires selective interest on a specific thing.
 
